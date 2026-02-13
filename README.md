@@ -4,11 +4,6 @@
 
 ![Status: Developing](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge&logo=git&logoColor=white)
 
-## Project Structure
-
-
-
-
 ## Description
 
 Python Pokedex based on PokeAPI script to fetch data from endpoints of the server **https://pokeapi.co/api/v2/**
