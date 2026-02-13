@@ -1,7 +1,6 @@
 # Basic Python Pokedex with PokeAPI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Status: Developing](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge&logo=git&logoColor=white)
 
 ## Description
