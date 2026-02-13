@@ -12,7 +12,7 @@ Python Pokedex based on PokeAPI script to fetch data from endpoints of the serve
 
 ```text
 .
-├── poke-cli/  <- Pokedex
+├── poke-cli/  <- Terminal-Based Pokedex
 │   ├── basic_pokedex.py
 │   ├── main.py
 │   ├── README.md
