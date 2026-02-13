@@ -27,7 +27,7 @@ Python Pokedex based on PokeAPI script to fetch data from endpoints of the serve
 
 Terminal based pokedex with minimal info:
 
-- [PokedexCLI v1](#)
+- [PokedexCLI v1](https://github.com/GiZano/Pokedex-API/tree/main/poke-cli)
 
 ## Save and Pull Request
 
